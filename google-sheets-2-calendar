@@ -1,0 +1,54 @@
+
+
+/*
+Google Spreadheet structure:
+
+  //A                     B                       C                       D                  
+  //5 Primary acc         [owner's email]
+  //6 [1st Cal name]      [1st Cal ID]
+  //7 [2nd Cal name]      [2nd Cal ID]
+  //8 title	              startTime	              endTime	                description        
+  //9 [Event name]	      [DD/MM/YYYY HH:MM:SS]	  [DD/MM/YYYY HH:MM:SS]   [Event description]
+  //10[Event name]        [DD/MM/YYYY HH:MM:SS]   [DD/MM/YYYY HH:MM:SS]   [Event description]
+  //11   ...
+
+*/
+
+// owner of the calendars, has to give permission to the app in order for this to work
+var calendarId_Primary = spreadsheet.getRange("B5").getValue(); // USER EMAIL @GMAIL
+
+
+function sheets2calendarFunction() {
+
+
+  // source
+  var sheet = SpreadsheetApp.getActiveSheet();
+  var eventsFromSheet = sheet.getRange("A9:D10").getValues(); //mind the range: each event data is detailed in columns A through D, and the 1st event is listed in row 9, but the last row depends on how many events your are trying to book
+
+  // destination
+  // Specific calendars: I hardcoded the IDs of my two main calendars in the rows 6 and 7 (col B), at some point this could be dynamically filled , but for now two specific ones will do
+  // Calendar IDs can be found in the calendar settings and ends with "@group.calendar.google.com"
+  
+  var calendarId_1 = spreadsheet.getRange("B6").getValue();       // 1ST CALENDAR ID
+  var calendarId_2 = spreadsheet.getRange("B7").getValue();       // 2ND CALENDAR ID
+  var eventCal = CalendarApp.getCalendarById(calendarId_1);       // this will be used in line 44 when selecting a specific calendar where each event will be created. In the future I'd like to put this value in another column of the spreadsheet so that I can create multiple events in multiple calendars running this script once. but for now I'm happy I have this.
+
+  for (i=0; i<eventsFromSheet.length; i++) {
+
+    var evt = eventsFromSheet[i];    
+    var title           = evt[0];
+    var startTime       = evt[1];
+    var endTime         = evt[2];
+    var evtDescription  = evt[3];
+
+    const event = eventCal.createEvent(
+      
+      title,
+      new Date(startTime),
+      new Date(endTime) ,        
+      {description:evtDescription}
+      
+    );
+      
+  }
+}
