@@ -1,3 +1,0 @@
-# ghpages
-
-Hola, soy Lucía
