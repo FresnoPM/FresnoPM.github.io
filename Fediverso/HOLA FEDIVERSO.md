@@ -3,6 +3,7 @@
 Sacar una cuenta en el fediverso es como pelar una naranja.
 
 Elegir con cuidado porque no los podés cambiar:
+
 - mi-user sería como tu nombre, el que te dio tu mamá
 - mi-instancia vendría a ser el apellido 
 
@@ -39,15 +40,18 @@ Listas de servers o instancias:
 - fedi.directory/
 - the-federation.info/
 - Activity pub protocol the-federation.info/protocol/4 <-- anda muuuuuuuuuy lento
-
+ 
 # FEDERACIÓN
 No hace falta tener una cuenta en cada insncia para interactuar con usuarios radicados en otras. Si tus amis están en otra instancia de la fed podés poner @su-user@su-instancia en el buscador, va a aparecer su cuenta en el listado y desde ahí podés empezar a seguirla.
 Va a lucir así
 https://[mi-instancia]/@[su-user]@[su-instancia]
+Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social (en este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle).
 
-Si quiero vincularme con cuentas que estáss fuera de la FED (sus instancias corren en servers que no tienen protocolo AP) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo.
+Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servers que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo.
 
-## Federación usando FED.BRID.GY
+## Federación usando FED.BRID.GY 
+
+Hice esta guía para quienes quieren federar entre BlueSky y Mastodon porque es mi caso. Eventualmente, si llega a surgir la necesidad lo haré para otras plataformas, pero creo que con esto es suficiente.
 
 Para que vean mis publicaciones de mi cuenta original (desde OTRA-APP) debo crear una cuenta puenteada a partir de mi cuenta original.
 
