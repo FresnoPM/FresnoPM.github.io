@@ -8,6 +8,7 @@ Elegir con cuidado porque no los podés cambiar:
 - mi-instancia vendría a ser el apellido 
 
 Podés cambiar tantas veces como quieras:
+
 - mi-nick sería como te llaman tus amigos
 - mi-banner es la imagen que va en el encabezado de tu perfil
 - mi-avatar: la carita que aparece al lado de mi-nick en cada publicación
