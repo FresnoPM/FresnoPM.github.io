@@ -1,5 +1,9 @@
+Title:	Hola, mundo Fed - Un artículo hecho por De-Lulu
+Author: Lucia Fresno  
+Web: http://fresno.pm/
 
-# HOLA, MUNDO FED
+HOLA, MUNDO FED
+==============
 
 ### Atajos
 
@@ -33,54 +37,57 @@ Esto es igual que en cualquier otra rrss. Podés cambiar tantas veces como quier
 ¿Qué es una instancia? 
 
 **SOFTWARE**
+
 Mastodon, pixelfed, bluesky, wordpress, etc son apps, software o como lo quieras llamar. Estos softwares tienen características varias. Las que más me importan a mi son las features y el prtocolo porque son las características que más influyen en la compatibilidad de federación. 
 Mis apps elegidas son Mastodon y Bluesky y en este artículo me concentro en estas 2. Hay muuuuuuchas más.
 
-**SERVER**
-Una persona u organización contrata un server y dentro de ese server instala una instancia de ese software. Después compra un dominio (el nombre de la instancia) y lo disponibiliza para que la gente se registre ahí. Muchas veces llamamos _server_ a la _instancia_. Son cosas diferentes pero están vinculadas, así que podemos usar esos dos términos como sinónimos para fines prácticos.
+**SERVIDOR**
+
+Una persona u organización contrata un servidor y dentro de ese servidor instala una instancia de ese software. Después compra un dominio (el nombre de la instancia) y lo disponibiliza para que la gente se registre ahí. Muchas veces llamamos _servidor_ a la _instancia_. Son cosas diferentes pero están vinculadas, así que podemos usar esos dos términos como sinónimos para fines prácticos.
 
 **REGISTRO**
+
 El tema es que vos no te sacás una cuenta en la app, te sacás la cuenta en una instancia de la app que corre en un servidor que alguien administra. Entonces tu cuenta está sujeta a las decisiones de esa persona u organización. La cosa copada del fediverso es que 
 
 1)	Podés elegir el software que más se ajuste a tus necesidades.
 
-2)	Podés elegir el server dónde está instalado ese software. Esto significa elegir 
-- tus admins (autoridades del server) 
+2)	Podés elegir el servidor dónde está instalado ese software. Esto significa elegir 
+- tus admins (autoridades del servidor) 
 - reglas o términos y condiciones de uso
 - nombre de la instancia (para mi es importante, pero secundario)
 
-3)	Si quisieras podrías armar tu propio server.
+3)	Si quisieras podrías armar tu propio servidor.
 
-4) 	Si no te gusta cómo se maneja el asunto podés llevarte tus cosas a otro.
+4) 	Si no te gusta cómo se maneja el asunto podés llevarte tus cosas a otro lado.
 
-5)	Podés federar con otros servers que tengan mismo software u otro. Si tiene otro protocolo ya es más difícil y de eso se trata este artículo.
+5)	Podés federar con otros servidores que tengan mismo software u otro. Si tiene otro protocolo ya es más difícil y de eso se trata este artículo.
 
-**En resumen:** podés elegir quién y cómo se toman las decisiones, tus cosas son tuyas, no de las autoridades del server. Esto no es posible en Meta, X, bsky, etc.
+**En resumen:** podés elegir quién y cómo se toman las decisiones, tus cosas son tuyas, no de las autoridades del servidor. Esto no es posible en Meta, X, bsky, etc.
 
 
 ## Criterios
 
-Es difícil manejar tanta info al principio pero vale la pena pensar en estas cuestiones al principio. La mayoría son obvias. Las que no, podés consultar con gente que ya haya pasado por la experiencia. Estos datos están publicados en la página instancia/about de cada server.
+Es difícil manejar tanta info al principio pero vale la pena pensar en estas cuestiones al principio. La mayoría son obvias. Las que no, podés consultar con gente que ya haya pasado por la experiencia. Estos datos están publicados en la página instancia/about de cada servidor.
 
 - **Reglas del servidor:** algunas más estrictas que otras, es importante que estés de acuerdo porque si lo las seguís te van a echar
-- **Ubicación geográfica de los servers:** esto influye en la eficiencia y el tiempo que toma publicar
-- **Si tienen un tópico específico:** por ejemplo puede ser un server dedicado a publicar fotos de gatos, todas las publicaciones que no sean fotos de gatos deberán ser privadas
+- **Ubicación geográfica de los servidores:** esto influye en la eficiencia y el tiempo que toma publicar
+- **Si tienen un tópico específico:** por ejemplo puede ser un servidor dedicado a publicar fotos de gatos, todas las publicaciones que no sean fotos de gatos deberán ser privadas
 - **Cantidad de usuarios registrados**: gente con la que interactuás en el inicio del servidor.
 - **Idioma**
-- **Features activadas:** no todos los servers tienen las mismas funcionalidades o configuraciones, esto lo deciden sus owners o admins, por ejemplo algunos tienen un límite máximo de caracteres por publicación, otros no permiten polls...y así. Yo elegiría, dentro de los que me gustan, el que tenga más features. Otra gente prefiere con menos porque le abruma las opciones. Qué sé yo!
+- **Features activadas:** no todos los servidores tienen las mismas funcionalidades o configuraciones, esto lo deciden sus owners o admins, por ejemplo algunos tienen un límite máximo de caracteres por publicación, otros no permiten polls...y así. Yo elegiría, dentro de los que me gustan, el que tenga más features. Otra gente prefiere con menos porque le abruma las opciones. Qué sé yo!
 - **Dónde estén tus amiwis**: podés seguir cuentas de cualquier servidor e interactuar con ellas, pero si la gente que te interesa está en el mismo servidor que vos es más sencillo ver sus publicaciones en el inicio.
 - **Otras** ¿cuáles?
 
 ## Directorios de instancias
 
 
-Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="##Contacto">a mí</a>) para que te guíe. 
+Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#Contacto">a mí</a>) para que te guíe. 
 
-Listas de servers o instancias:
+Listas de servidores o instancias:
 
-- https://joinmastodon.org/servers
+- https://joinmastodon.org/servidores
 - https://instances.social
-- https://pixelfed.org/servers
+- https://pixelfed.org/servidores
 - https://gram.social/web/directory
 - https://pleroma.social/#featured-instances
 - https://fedidb.com/
@@ -111,7 +118,7 @@ Va a lucir así:
 
 Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social. Si te confunde esto, ni te preocupes, podés chusmear esto después. En este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle. **Lo importante es que se puede sin usar puentes externos.**
 
-Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servers que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo. Si te da mucha curiosidad el tema acá podés leer sobre puenteo entre servidores y otras yerbas en  <a href="#extras">extras</a>
+Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servidores que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo. Si te da mucha curiosidad el tema acá podés leer sobre puenteo entre servidores y otras yerbas en  <a href="#extras">extras</a>
 
 ## Federación usando FED.BRID.GY 
 
@@ -121,17 +128,17 @@ Para que vean mis publicaciones de mi cuenta original (desde OTRA-APP) debo crea
 
 Para eso debo seguir al BRIDGY local desde mi cuenta. Esto hará que BRIDGY me empiece a seguir.
 
-- Desde MSTD  https://mi-instancia-mstd/@bsky.brid.gy@bsky.brid.gy
-- Desde BSKY https://bsky.app/profile/ap.brid.gy
+- Desde MSTD: https://mi-instancia-mstd/@bsky.brid.gy@bsky.brid.gy
+- Desde BSKY: https://bsky.app/profile/ap.brid.gy
 
 
 BRIDGY creará a partir de mi cuenta original una nueva cuenta puenteada que es:
 
-> @[mi-user-original].[mi-instancia-original]@bsky.brid.gy
+> @[mi-user-original].[mi-instancia-original]@[otra-app].brid.gy
 
 Los usuarios de otras apps podrán visualizarla desde una url que es 
 
-> https://OTRA-APP/@[mi-user-original].[mi-instancia-original]@b[otra-app].brid.gy
+> https://OTRA-APP/@[mi-user-original].[mi-instancia-original]@[otra-app].brid.gy
 
 Esta cuenta puenteada será una copia de la original. Tendrá mismo avatar, mismo banner, misma bio con una línea extra agregada en la bio que hace fácil de reconocerla como puenteada.
 En este perfil se verán todas las publicaciones realizadas en mi cuenta original a partir del momento en que se empezó el vínculo con la cuenta de BRIDGY correspondiente.
@@ -165,13 +172,13 @@ Desde esa página se puede también cambiar el Bluesky handle en caso de que ten
 
 Si quiero desactivar por completo mi puenteo debo dejar de seguir y eliminar seguidor o bloquear seguidor a la cuenta local de BRIDGY. El puenteo de publicaciones funciona únicamente si BRIDGY local te sigue.
 
-## Invitar a otra gente
+## Invitar a otra gente que no sabe cómo hacer
 
 Si quiero que un user de OTRA-APP se conecte con el fediverso y no lo hace por su cuenta puedo invitarle así: 
 
 1) le mando un mensaje privado a mi BRIDGY local 
 
-2) el mensaje debe decir sólamente @otro-usuario@su-nstancia 
+2) el mensaje debe decir sólamente @otro-usuario@su-instancia 
 
 3) BRIDGY le enviará un mensaje a esa cuenta con la invitación e instrucciones para realizarlo. Más info acá: https://fed.brid.gy/docs#dm-request
 
@@ -182,7 +189,6 @@ Después están los _clientes_ que son las apps que te instalás en el teléfono
 ## Links piolas para gente techie
 
 - Bridges: https://en.wikipedia.org/wiki/Network_bridge.
-
 - https://the-federation.info/protocol/4 <-- anda muuuuuuuuuy lento pero tira muuuucha data
 - https://indieweb.org/bridge_all_the_things
 - ¿Cómo armar un form html para seguir a un usuario miembro del fediverso? https://indieweb.org/Bridgy_Fed#How_to_add_a_follow_form
@@ -194,16 +200,23 @@ ___
 
 Armé este documento porque, a raíz de declaraciones políticas de la CEO de la plataforma, no quiero seguir en bsky. El tema es que en BSKY encontré una hermosa comunidad y no quiero renunciar a ella sólo porque sus posturas no sean tan firmes como las mías. Mi simpatía por el software libre, la federación y demás utopías tecnológicas siempre me atrajeron pero sus limitaciones económicas y prácticas me hicieron dejarlas de lado. Pasó muy poco desde la última vez que sentí la imperiosa necesidad de abandonar una plataforma donde había desarrollado fuertes vínculos y una identidad personal y laboral robusta por su cambio de dirección (cuando el nuevo dueño de equis hizo un gesto imperdonable). Mis espacios de comunidad online son muy importantes para mi y no quiero volver a tener que elegir. 
 
-Tampoco me siento cómoda hoy con el server que elegí, aún siento que no soy dueña de _"Mis cosas"_ ahí porque al minuto que tenga un conflicto con alguna de las autoridades voy a tener que irme. Aún no es un problema pero no tengo ganas de llegar a ese punto. En este momento no estoy en condiciones de crear mi propio server, como muches de uds me han sugerido. Es un trabajo enorme y no estoy del todo segura de que esa sea la mejor manera de lograr la sensación de autonomía y seguridad que necesito para estar tranquila.
+Tampoco me siento cómoda hoy con el servidor que elegí, aún siento que no soy dueña de _"Mis cosas"_ ahí porque al minuto que tenga un conflicto con alguna de las autoridades voy a tener que irme. Aún no es un problema pero no tengo ganas de llegar a ese punto. En este momento no estoy en condiciones de crear mi propio servidor, como muches de uds me han sugerido. Es un trabajo enorme y no estoy del todo segura de que esa sea la mejor manera de lograr la sensación de autonomía y seguridad que necesito para estar tranquila.
 Eventualmente, cuando haya estabilizado todo este asunto y haya testeado cuán viable es federar entre mstd y bsky voy a dejar bsky por completo. Pero hoy no es el día.
+
+
+
 
 ## Contacto
 
-Si querés consultarme dudas que surgieron a raíz de este artículo, querés debatir puntos de vista (relevantes para el artículo) o creés que tenés algo copado para agregar podés contactarte conmigo. 
+Si querés consultarme dudas que surgieron a raíz de este artículo, querés debatir puntos de vista (relevantes para el artículo) o creés que tenés algo copado para agregar podés contactarte conmigo. También acepto identificaciones de errores, fotos de michis, transferencias bancarias y barritas de mantecol.
+
+Esto está hecho en markdown porque no tenía ganas de ponerme a sobreingenierizar el asunto y aparte me gusta esta onda minimalista. Si creés que puede mejorar con css, te invito a que escribas tus sugerencias y las subas a tu propia web que seguro está re buena. :)
 
 Por ahora me encontrás en 
 
 - https://mastodon.uy/@Siboney
 - https://bsky.app/profile/candycandem.bsky.social
+
+después vemos.
 
 Con cariño, _De-Lulu_
