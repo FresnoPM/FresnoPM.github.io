@@ -1,8 +1,12 @@
 
 # HOLA, MUNDO FED
+
+## Tu primer cuenta
+
 Sacar una cuenta en el fediverso es como pelar una naranja (podés tener todas las que quieras).
 
-> Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#FEDERACIÓN">FEDERACIÓN</a>
+- Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#FEDERACIÓN">FEDERACIÓN</a>
+- Si ya tenés claro cómo funciona todo y querés los 3 pasos simples andá a <a href="##TLDR">TL;DR</a>
 
 Elegir con cuidado porque no los podés cambiar:
 
@@ -82,7 +86,7 @@ Para eso debo seguir al BRIDGY local desde mi cuenta. Esto hará que BRIDGY me e
 - Desde BSKY https://bsky.app/profile/ap.brid.gy
 
 
-BRIGY creará a partir de mi cuenta original una nueva cuenta puenteada que es:
+BRIDGY creará a partir de mi cuenta original una nueva cuenta puenteada que es:
 
 > @[mi-user-original].[mi-instancia-original]@bsky.brid.gy
 
@@ -99,13 +103,16 @@ Desde mi cuenta original sólo podré ver (e interactuar con) cuentas de OTRA-AP
 
 Si quiero que un user de OTRA-APP se conecte con el fediverso y no lo hace por su cuenta le puedo mandar un mensaje privado a mi BRIDGY local que diga sólamente @otro-usuario@su-nstancia y BRIDGY le solicitará por mensaje privado que se una. Máximo de solicitudes diarias: 10. https://fed.brid.gy/docs#dm-request
 
-### Activar/Desactivar
+## TLDR
 
-Desde  https://fed.brid.gy/settings puedo cambiar el status mi cuenta ya puentada (activa/inactiva). Tarda ~5 minutos en realizarse los cambios. Después de cambiar el status debo esperar 5 minutos antes de volver a cambiarlo.
+Pasos:
 
-Desde esa página se puede también cambiar el Bluesky handle en caso de que tengas un dominio propio (opcional) y activar/desactivar DM notifications from unbridged accounts. O sea, si quiero recibir o no mensajes privados notificándome de si alguna cuenta no puenteada (no vinculada con su BRIDGY local) interactuó con mi cuenta puenteada o alguna de sus publicaciones. Más detalles sobre cómo funciona todo esto acá https://fed.brid.gy/docs
+1) Seguir a tu BRIDGY local. Esto crea tu cuenta puenteada. Te va a llegar el link por mensaje privado desde la cuenta de dicho BRIDGY local.
+2) Compartí esta cuenta puenteada con tus amiwis de la otra plataforma.
+3) Pediles a estas personas que también sigan a su BRIDGY local de la plataforma donde estén.
 
-Si quiero desactivar por completo mi puenteo debo dejar de seguir y eliminar seguidor o bloquear seguidor a la cuenta local de BRIDGY. El puenteo de publicaciones funciona únicamente si BRIDGY local te sigue.
+ÉXITO! Ya están conectades!
+
 
 
 ___
@@ -114,6 +121,16 @@ ___
 # EXTRAS 
 
 
+
+## Activar/Desactivar
+
+Desde  https://fed.brid.gy/settings puedo cambiar el status mi cuenta ya puentada (activa/inactiva). Tarda ~5 minutos en realizarse los cambios. Después de cambiar el status debo esperar 5 minutos antes de volver a cambiarlo.
+
+Desde esa página se puede también cambiar el Bluesky handle en caso de que tengas un dominio propio (opcional) y activar/desactivar DM notifications from unbridged accounts. O sea, si quiero recibir o no mensajes privados notificándome de si alguna cuenta no puenteada (no vinculada con su BRIDGY local) interactuó con mi cuenta puenteada o alguna de sus publicaciones. Más detalles sobre cómo funciona todo esto acá https://fed.brid.gy/docs
+
+Si quiero desactivar por completo mi puenteo debo dejar de seguir y eliminar seguidor o bloquear seguidor a la cuenta local de BRIDGY. El puenteo de publicaciones funciona únicamente si BRIDGY local te sigue.
+
+## Links piolas para gente techie
 
 https://indieweb.org/bridge_all_the_things
 
