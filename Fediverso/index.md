@@ -1,12 +1,12 @@
 
 # HOLA, MUNDO FED
 
+- Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#FEDERACIÓN">FEDERACIÓN</a>
+- Si ya tenés claro cómo funciona todo y querés los 3 pasos simples andá a <a href="##TLDR">TL;DR</a>
+
 ## Tu primer cuenta
 
 Sacar una cuenta en el fediverso es como pelar una naranja (podés tener todas las que quieras).
-
-- Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#FEDERACIÓN">FEDERACIÓN</a>
-- Si ya tenés claro cómo funciona todo y querés los 3 pasos simples andá a <a href="##TLDR">TL;DR</a>
 
 Elegir con cuidado porque no los podés cambiar:
 
@@ -108,7 +108,9 @@ Si quiero que un user de OTRA-APP se conecte con el fediverso y no lo hace por s
 Pasos:
 
 1) Seguir a tu BRIDGY local. Esto crea tu cuenta puenteada. Te va a llegar el link por mensaje privado desde la cuenta de dicho BRIDGY local.
+
 2) Compartí esta cuenta puenteada con tus amiwis de la otra plataforma.
+
 3) Pediles a estas personas que también sigan a su BRIDGY local de la plataforma donde estén.
 
 ÉXITO! Ya están conectades!
