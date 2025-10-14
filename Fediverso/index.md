@@ -1,8 +1,8 @@
 
 # HOLA, MUNDO FED
 
-- Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#FEDERACIÓN">FEDERACIÓN</a>
-- Si ya tenés claro cómo funciona todo y querés los 3 pasos simples andá a <a href="##TLDR">TL;DR</a>
+- Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#federacion">FEDERACIÓN</a>
+- Si ya tenés claro cómo funciona todo y querés los 3 pasos simples andá a <a href="#tldr">TL;DR</a>
 
 ## Tu primer cuenta
 
