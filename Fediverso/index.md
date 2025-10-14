@@ -1,8 +1,14 @@
 
 # HOLA, MUNDO FED
 
-- Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#federacion">FEDERACIÓN</a>
+### Atajos
+
+- Todas las redes sociales tienen la misma estructura, sólo que usualmente no tenés que elegir la instancia, si es tu 1ra vez en mastodon o el fediverso y tenés dudas de por dónde empezar, metete <a href="#tu primer cuenta">acá </a>.
+- Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#federacion">FEDERACIÓN</a>. Ahí hay una pequeña introducción y las instrucciones para hacerlo con BRIDGY.
 - Si ya tenés claro cómo funciona todo y querés los 3 pasos simples andá a <a href="#tldr">TL;DR</a>
+- Después hay cositas <a href="#extras">extra</a> y un epílogo donde cuento un poco de <a href="#yo">mi experiencia</a>.
+
+**EMPECEMOS!**
 
 ## Tu primer cuenta
 
@@ -10,34 +16,65 @@ Sacar una cuenta en el fediverso es como pelar una naranja (podés tener todas l
 
 Elegir con cuidado porque no los podés cambiar:
 
-- mi-user sería como tu nombre, el que te dio tu mamá
-- mi-instancia vendría a ser el apellido 
+- **mi-user**: sería como tu nombre que te dio tu mamá, es el _handle_ o _arroba_.
+- **mi-instancia**: vendría a ser el apellido, esta es la cosa nueva que introduce el fediverso: podés elegir dónde radicar tu nueva cuenta. Hay algunas genéricas y otras específicas. Abajo vas a poder ver un listado de criterios que yo sugiero tener en cuenta y también un listado de directorios donde vas a poder encontrar. Puse una pequeña explicación sobre qué significa esto <a href="#instancias">acá</a>. 
 
-_Si por algún motivo **necesitás** hacerlo se puede crear una nueva cuenta y exportar/importar tus datos... se puede hacer pero es un bardo._
+_Si por algún motivo **necesitás** generar una nueva cuenta sin perder lo que tenías en la anterior se puede, hasta cierto punto... pero es un bardo._
 
-Podés cambiar tantas veces como quieras:
+Esto es igual que en cualquier otra rrss. Podés cambiar tantas veces como quieras:
 
-- mi-nick sería como te llaman tus amigos
-- mi-banner es la imagen que va en el encabezado de tu perfil
-- mi-avatar: la carita que aparece al lado de mi-nick en cada publicación
-- mi-bio: texto introductorio, descripción sobre vos o lo que tus visitantes podrán encontrar en tus publicaciones
+- **mi-nick**: sería como te llaman tus amigos
+- **mi-banner**: es la imagen que va en el encabezado de tu perfil
+- **mi-avatar**: la carita que aparece al lado de mi-nick en cada publicación
+- **mi-bio**: texto introductorio, descripción sobre vos o lo que tus visitantes podrán encontrar en tus publicaciones
+
+## Instancias
+
+¿Qué es una instancia? 
+
+**SOFTWARE**
+Mastodon, pixelfed, bluesky, wordpress, etc son apps, software o como lo quieras llamar. Estos softwares tienen características varias. Las que más me importan a mi son las features y el prtocolo porque son las características que más influyen en la compatibilidad de federación. 
+Mis apps elegidas son Mastodon y Bluesky y en este artículo me concentro en estas 2. Hay muuuuuuchas más.
+
+**SERVER**
+Una persona u organización contrata un server y dentro de ese server instala una instancia de ese software. Después compra un dominio (el nombre de la instancia) y lo disponibiliza para que la gente se registre ahí. Muchas veces llamamos _server_ a la _instancia_. Son cosas diferentes pero están vinculadas, así que podemos usar esos dos términos como sinónimos para fines prácticos.
+
+**REGISTRO**
+El tema es que vos no te sacás una cuenta en la app, te sacás la cuenta en una instancia de la app que corre en un servidor que alguien administra. Entonces tu cuenta está sujeta a las decisiones de esa persona u organización. La cosa copada del fediverso es que 
+
+1)	Podés elegir el software que más se ajuste a tus necesidades.
+
+2)	Podés elegir el server dónde está instalado ese software. Esto significa elegir 
+- tus admins (autoridades del server) 
+- reglas o términos y condiciones de uso
+- nombre de la instancia (para mi es importante, pero secundario)
+
+3)	Si quisieras podrías armar tu propio server.
+
+4) 	Si no te gusta cómo se maneja el asunto podés llevarte tus cosas a otro.
+
+5)	Podés federar con otros servers que tengan mismo software u otro. Si tiene otro protocolo ya es más difícil y de eso se trata este artículo.
+
+**En resumen:** podés elegir quién y cómo se toman las decisiones, tus cosas son tuyas, no de las autoridades del server. Esto no es posible en Meta, X, bsky, etc.
+
 
 ## Criterios
 
-Estos datos están publicados en la página instancia/about de cada server
+Es difícil manejar tanta info al principio pero vale la pena pensar en estas cuestiones al principio. La mayoría son obvias. Las que no, podés consultar con gente que ya haya pasado por la experiencia. Estos datos están publicados en la página instancia/about de cada server.
 
-- Reglas del servidor: algunas más estrictas que otras, es importante que estés de acuerdo porque si lo las seguís te van a echar
-- Ubicación geográfica de los servers: esto influye en la eficiencia y el tiempo que toma publicar
-- Si tienen un tópico específico: por ejemplo puede ser un server dedicado a publicar fotos de gatos, todas las publicaciones que no sean fotos de gatos deberán ser privadas
-- Cantidad de usuarios registrados
-- Idioma
-- Features activadas: no todos los servers tienen las mismas funcionalidades o configuraciones, esto lo deciden sus owners o admins, por ejemplo algunos tienen un límite máximo de caracteres por publicación, otros no permiten polls...y así
-- Dónde estén tus amiwis
-- Otras ¿cuáles?
+- **Reglas del servidor:** algunas más estrictas que otras, es importante que estés de acuerdo porque si lo las seguís te van a echar
+- **Ubicación geográfica de los servers:** esto influye en la eficiencia y el tiempo que toma publicar
+- **Si tienen un tópico específico:** por ejemplo puede ser un server dedicado a publicar fotos de gatos, todas las publicaciones que no sean fotos de gatos deberán ser privadas
+- **Cantidad de usuarios registrados**: gente con la que interactuás en el inicio del servidor.
+- **Idioma**
+- **Features activadas:** no todos los servers tienen las mismas funcionalidades o configuraciones, esto lo deciden sus owners o admins, por ejemplo algunos tienen un límite máximo de caracteres por publicación, otros no permiten polls...y así. Yo elegiría, dentro de los que me gustan, el que tenga más features. Otra gente prefiere con menos porque le abruma las opciones. Qué sé yo!
+- **Dónde estén tus amiwis**: podés seguir cuentas de cualquier servidor e interactuar con ellas, pero si la gente que te interesa está en el mismo servidor que vos es más sencillo ver sus publicaciones en el inicio.
+- **Otras** ¿cuáles?
 
 ## Directorios de instancias
 
-Existen varios, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="##Contacto">a mí</a>) para que te guíe. 
+
+Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="##Contacto">a mí</a>) para que te guíe. 
 
 Listas de servers o instancias:
 
@@ -64,15 +101,17 @@ Mi recomendación: El más genérico en mi opinión es mastodon. No te complique
 
 # FEDERACIÓN
 
+Acá empieza la parte _divertida_.
+
 No hace falta tener una cuenta en cada instancia para interactuar con usuarios radicados en otras. Si tus amis están en otra instancia de la fed podés poner @su-user@su-instancia en el buscador, va a aparecer su cuenta en el listado y desde ahí podés empezar a seguirla.
-Va a lucir así
+Va a lucir así:
 
 > https://[mi-instancia]/@[su-user]@[su-instancia]
 
 
-Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social. En este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle. **Lo importante es que se puede sin usar puentes externos.**
+Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social. Si te confunde esto, ni te preocupes, podés chusmear esto después. En este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle. **Lo importante es que se puede sin usar puentes externos.**
 
-Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servers que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo. Si te da mucha curiosidad el tema acá podés leer sobre puenteo entre servidores: https://en.wikipedia.org/wiki/Network_bridge.
+Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servers que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo. Si te da mucha curiosidad el tema acá podés leer sobre puenteo entre servidores y otras yerbas en  <a href="#extras">extras</a>
 
 ## Federación usando FED.BRID.GY 
 
@@ -82,7 +121,7 @@ Para que vean mis publicaciones de mi cuenta original (desde OTRA-APP) debo crea
 
 Para eso debo seguir al BRIDGY local desde mi cuenta. Esto hará que BRIDGY me empiece a seguir.
 
-- Desde MSTD  https://mi-instancia/@bsky.brid.gy@bsky.brid.gy
+- Desde MSTD  https://mi-instancia-mstd/@bsky.brid.gy@bsky.brid.gy
 - Desde BSKY https://bsky.app/profile/ap.brid.gy
 
 
@@ -92,7 +131,7 @@ BRIDGY creará a partir de mi cuenta original una nueva cuenta puenteada que es:
 
 Los usuarios de otras apps podrán visualizarla desde una url que es 
 
-> https://OTRA-APP/@[mi-user-original].[mi-instancia-original]@bsky.brid.gy
+> https://OTRA-APP/@[mi-user-original].[mi-instancia-original]@b[otra-app].brid.gy
 
 Esta cuenta puenteada será una copia de la original. Tendrá mismo avatar, mismo banner, misma bio con una línea extra agregada en la bio que hace fácil de reconocerla como puenteada.
 En este perfil se verán todas las publicaciones realizadas en mi cuenta original a partir del momento en que se empezó el vínculo con la cuenta de BRIDGY correspondiente.
@@ -101,21 +140,17 @@ Todos los usuarios de la OTRA-APP podrán ver mi cuenta, interactuar con ella, v
 
 Desde mi cuenta original sólo podré ver (e interactuar con) cuentas de OTRA-APP y sus publicaciones si éstas están, a su vez, vinculadas con la cuenta de BRIDGY correspondiente a su app. Tampoco voy a poder ver las interacciones de users de OTRA-APP en los posts de mi cuenta puenteada ni recibir notificaciones a menos que estén vinculados con BRIDGY para permitir que yo los vea desde mi cuenta original.
 
-Si quiero que un user de OTRA-APP se conecte con el fediverso y no lo hace por su cuenta le puedo mandar un mensaje privado a mi BRIDGY local que diga sólamente @otro-usuario@su-nstancia y BRIDGY le solicitará por mensaje privado que se una. Máximo de solicitudes diarias: 10. https://fed.brid.gy/docs#dm-request
-
 ## TLDR
 
 Pasos:
 
-1) Seguir a tu BRIDGY local. Esto crea tu cuenta puenteada. Te va a llegar el link por mensaje privado desde la cuenta de dicho BRIDGY local.
+1) Seguir a tu BRIDGY local. Esto crea tu cuenta puenteada. Te va a llegar el link por mensaje privado desde la cuenta de dicho BRIDGY local. Ver arriba perfiles de bridgy según app.
 
 2) Compartí esta cuenta puenteada con tus amiwis de la otra plataforma.
 
 3) Pediles a estas personas que también sigan a su BRIDGY local de la plataforma donde estén.
 
 **ÉXITO! Ya están conectades!**
-
-
 
 ___
 
@@ -130,7 +165,23 @@ Desde esa página se puede también cambiar el Bluesky handle en caso de que ten
 
 Si quiero desactivar por completo mi puenteo debo dejar de seguir y eliminar seguidor o bloquear seguidor a la cuenta local de BRIDGY. El puenteo de publicaciones funciona únicamente si BRIDGY local te sigue.
 
+## Invitar a otra gente
+
+Si quiero que un user de OTRA-APP se conecte con el fediverso y no lo hace por su cuenta puedo invitarle así: 
+
+1) le mando un mensaje privado a mi BRIDGY local 
+
+2) el mensaje debe decir sólamente @otro-usuario@su-nstancia 
+
+3) BRIDGY le enviará un mensaje a esa cuenta con la invitación e instrucciones para realizarlo. Más info acá: https://fed.brid.gy/docs#dm-request
+
+## Clientes
+
+Después están los _clientes_ que son las apps que te instalás en el teléfono, en la compu o consultás desde el navegador. Por ejemplo la app de bsky es una sola, pero para mastodon hay bocha, yo uso "Tusky". Chusmeá lo que ofrezca tu play store o app store o lo que tengas.s
+
 ## Links piolas para gente techie
+
+- Bridges: https://en.wikipedia.org/wiki/Network_bridge.
 
 - https://the-federation.info/protocol/4 <-- anda muuuuuuuuuy lento pero tira muuuucha data
 - https://indieweb.org/bridge_all_the_things
