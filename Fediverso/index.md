@@ -13,7 +13,7 @@ Elegir con cuidado porque no los podés cambiar:
 - mi-user sería como tu nombre, el que te dio tu mamá
 - mi-instancia vendría a ser el apellido 
 
-> Si por algún motivo necesitás hacerlo se puede crear una nueva cuenta y exportando/importando tus datos... se puede hacer pero tratemos de no meternos ahí
+_Si por algún motivo **necesitás** hacerlo se puede crear una nueva cuenta y exportar/importar tus datos... se puede hacer pero es un bardo._
 
 Podés cambiar tantas veces como quieras:
 
@@ -23,20 +23,21 @@ Podés cambiar tantas veces como quieras:
 - mi-bio: texto introductorio, descripción sobre vos o lo que tus visitantes podrán encontrar en tus publicaciones
 
 ## Criterios
+
 Estos datos están publicados en la página instancia/about de cada server
 
-- reglas del servidor: algunas más estrictas que otras, es importante que estés de acuerdo porque si lo las seguís te van a echar
-- ubicación geográfica de los servers: esto influye en la eficiencia y el tiempo que toma publicar
-- si tienen un tópico específico: por ejemplo puede ser un server dedicado a publicar fotos de gatos, todas las publicaciones que no sean fotos de gatos deberán ser privadas
-- cantidad de usuarios registrados
-- idioma
-- features activadas: no todos los servers tienen las mismas funcionalidades o configuraciones, esto lo deciden sus owners o admins, por ejemplo algunos tienen un límite máximo de caracteres por publicación, otros no permiten polls...y así
-- donde estén tus amiwis
+- Reglas del servidor: algunas más estrictas que otras, es importante que estés de acuerdo porque si lo las seguís te van a echar
+- Ubicación geográfica de los servers: esto influye en la eficiencia y el tiempo que toma publicar
+- Si tienen un tópico específico: por ejemplo puede ser un server dedicado a publicar fotos de gatos, todas las publicaciones que no sean fotos de gatos deberán ser privadas
+- Cantidad de usuarios registrados
+- Idioma
+- Features activadas: no todos los servers tienen las mismas funcionalidades o configuraciones, esto lo deciden sus owners o admins, por ejemplo algunos tienen un límite máximo de caracteres por publicación, otros no permiten polls...y así
+- Dónde estén tus amiwis
 - Otras ¿cuáles?
 
 ## Directorios de instancias
 
-Existen varios, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear
+Existen varios, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#YO">a mi</a>) para que te guíe. 
 
 Listas de servers o instancias:
 
@@ -52,11 +53,10 @@ Listas de servers o instancias:
 - https://the-federation.info/
 
 Diferentes softwares que usan Activity pub:
-
-Mi recomendación: No te compliques demasiado con esto, ya va a haber tiempo para ir afinando la puntería.
+Mi recomendación: El más genérico en mi opinión es mastodon. No te compliques demasiado con esto, ya va a haber tiempo para ir afinando la puntería. VOFI.
 
 - https://en.wikipedia.org/wiki/Fediverse#Software
-- https://the-federation.info/protocol/4 <-- anda muuuuuuuuuy lento
+
 
  
  ___
@@ -134,10 +134,9 @@ Si quiero desactivar por completo mi puenteo debo dejar de seguir y eliminar seg
 
 ## Links piolas para gente techie
 
-https://indieweb.org/bridge_all_the_things
-
-¿Cómo armar un form html para seguir a un usuario miembro del fediverso?
-https://indieweb.org/Bridgy_Fed#How_to_add_a_follow_form
+- https://the-federation.info/protocol/4 <-- anda muuuuuuuuuy lento pero tira muuuucha data
+- https://indieweb.org/bridge_all_the_things
+- ¿Cómo armar un form html para seguir a un usuario miembro del fediverso? https://indieweb.org/Bridgy_Fed#How_to_add_a_follow_form
 
 ___
 
