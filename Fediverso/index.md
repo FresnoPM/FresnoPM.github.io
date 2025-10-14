@@ -37,7 +37,7 @@ Estos datos están publicados en la página instancia/about de cada server
 
 ## Directorios de instancias
 
-Existen varios, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#YO">a mi</a>) para que te guíe. 
+Existen varios, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="##Contacto">a mí</a>) para que te guíe. 
 
 Listas de servers o instancias:
 
@@ -70,7 +70,7 @@ Va a lucir así
 > https://[mi-instancia]/@[su-user]@[su-instancia]
 
 
-> Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social. En este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle. **Lo importante es que se puede sin usar puentes externos.**
+Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social. En este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle. **Lo importante es que se puede sin usar puentes externos.**
 
 Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servers que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo. Si te da mucha curiosidad el tema acá podés leer sobre puenteo entre servidores: https://en.wikipedia.org/wiki/Network_bridge.
 
@@ -113,7 +113,7 @@ Pasos:
 
 3) Pediles a estas personas que también sigan a su BRIDGY local de la plataforma donde estén.
 
-ÉXITO! Ya están conectades!
+**ÉXITO! Ya están conectades!**
 
 
 
@@ -121,8 +121,6 @@ ___
 
 
 # EXTRAS 
-
-
 
 ## Activar/Desactivar
 
@@ -147,6 +145,8 @@ Armé este documento porque, a raíz de declaraciones políticas de la CEO de la
 
 Tampoco me siento cómoda hoy con el server que elegí, aún siento que no soy dueña de _"Mis cosas"_ ahí porque al minuto que tenga un conflicto con alguna de las autoridades voy a tener que irme. Aún no es un problema pero no tengo ganas de llegar a ese punto. En este momento no estoy en condiciones de crear mi propio server, como muches de uds me han sugerido. Es un trabajo enorme y no estoy del todo segura de que esa sea la mejor manera de lograr la sensación de autonomía y seguridad que necesito para estar tranquila.
 Eventualmente, cuando haya estabilizado todo este asunto y haya testeado cuán viable es federar entre mstd y bsky voy a dejar bsky por completo. Pero hoy no es el día.
+
+## Contacto
 
 Si querés consultarme dudas que surgieron a raíz de este artículo, querés debatir puntos de vista (relevantes para el artículo) o creés que tenés algo copado para agregar podés contactarte conmigo. 
 
