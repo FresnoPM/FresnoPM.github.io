@@ -1077,12 +1077,18 @@ body .markdown-body
 .highlight .il{color:#009999}
 .highlight .gc{color:#999;background-color:#EAF2F5}
 </style><title>index</title></head><body><article class="markdown-body"><h1 id="hola-mundo-fed">HOLA, MUNDO FED<a class="headerlink" href="#hola-mundo-fed" title="Permanent link"></a></h1>
-<p>Sacar una cuenta en el fediverso es como pelar una naranja.</p>
+<p>Sacar una cuenta en el fediverso es como pelar una naranja (podés tener todas las que quieras).</p>
+<blockquote>
+<p>Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#FEDERACIÓN">FEDERACIÓN</a></p>
+</blockquote>
 <p>Elegir con cuidado porque no los podés cambiar:</p>
 <ul>
 <li>mi-user sería como tu nombre, el que te dio tu mamá</li>
 <li>mi-instancia vendría a ser el apellido </li>
 </ul>
+<blockquote>
+<p>Si por algún motivo necesitás hacerlo se puede crear una nueva cuenta y exportando/importando tus datos&hellip; se puede hacer pero tratemos de no meternos ahí</p>
+</blockquote>
 <p>Podés cambiar tantas veces como quieras:</p>
 <ul>
 <li>mi-nick sería como te llaman tus amigos</li>
@@ -1091,38 +1097,47 @@ body .markdown-body
 <li>mi-bio: texto introductorio, descripción sobre vos o lo que tus visitantes podrán encontrar en tus publicaciones</li>
 </ul>
 <h2 id="criterios">Criterios<a class="headerlink" href="#criterios" title="Permanent link"></a></h2>
-<p>Estos datos están publicados en su instancia/about</p>
+<p>Estos datos están publicados en la página instancia/about de cada server</p>
 <ul>
-<li>reglas del servidor, algunas más estrictas que otras, es importante que estés de acuerdo porque si lo las seguís te van a echar</li>
-<li>ubicación geográfica de los servers, esto influye en la eficiencia y el tiempo que toma publicar</li>
-<li>si tienen un tópico específico, por ejemplo puede ser un server dedicado a publicar fotos de gatos, todas las publicaciones que no sean fotos de gatos deberán ser privadas</li>
+<li>reglas del servidor: algunas más estrictas que otras, es importante que estés de acuerdo porque si lo las seguís te van a echar</li>
+<li>ubicación geográfica de los servers: esto influye en la eficiencia y el tiempo que toma publicar</li>
+<li>si tienen un tópico específico: por ejemplo puede ser un server dedicado a publicar fotos de gatos, todas las publicaciones que no sean fotos de gatos deberán ser privadas</li>
 <li>cantidad de usuarios registrados</li>
 <li>idioma</li>
-<li>features activadas, no todos los servers tienen las mismas funcionalidades o configuraciones, esto lo deciden sus owners o admins</li>
+<li>features activadas: no todos los servers tienen las mismas funcionalidades o configuraciones, esto lo deciden sus owners o admins, por ejemplo algunos tienen un límite máximo de caracteres por publicación, otros no permiten polls&hellip;y así</li>
 <li>donde estén tus amiwis</li>
 <li>Otras ¿cuáles?</li>
 </ul>
 <h2 id="directorios-de-instancias">Directorios de instancias<a class="headerlink" href="#directorios-de-instancias" title="Permanent link"></a></h2>
-<p>Existen varios, y muchas instancias existentes no están listadass pero acá hay suficientes para chusmear</p>
+<p>Existen varios, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear</p>
 <p>Listas de servers o instancias:</p>
 <ul>
-<li>joinmastodon.org/servers</li>
-<li>instances.social</li>
-<li>pixelfed.org/servers</li>
-<li>gram.social/web/directory</li>
-<li>pleroma.social/#featured-instances</li>
-<li>fedidb.com/</li>
-<li>fedidb.org</li>
-<li>fedi.directory/</li>
-<li>the-federation.info/</li>
-<li>Activity pub protocol the-federation.info/protocol/4 &lt;&ndash; anda muuuuuuuuuy lento</li>
+<li><a href="https://joinmastodon.org/servers">https://joinmastodon.org/servers</a></li>
+<li><a href="https://instances.social">https://instances.social</a></li>
+<li><a href="https://pixelfed.org/servers">https://pixelfed.org/servers</a></li>
+<li><a href="https://gram.social/web/directory">https://gram.social/web/directory</a></li>
+<li><a href="https://pleroma.social/#featured-instances">https://pleroma.social/#featured-instances</a></li>
+<li><a href="https://fedidb.com/">https://fedidb.com/</a></li>
+<li><a href="https://fedidb.org">https://fedidb.org</a></li>
+<li><a href="https://fedi.directory/">https://fedi.directory/</a></li>
+<li><a href="https://mastodon.help/instances/en">https://mastodon.help/instances/en</a></li>
+<li><a href="https://the-federation.info/">https://the-federation.info/</a></li>
 </ul>
+<p>Diferentes softwares que usan Activity pub:</p>
+<p>Mi recomendación: No te compliques demasiado con esto, ya va a haber tiempo para ir afinando la puntería.</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Fediverse#Software">https://en.wikipedia.org/wiki/Fediverse#Software</a></li>
+<li><a href="https://the-federation.info/protocol/4">https://the-federation.info/protocol/4</a> &lt;&ndash; anda muuuuuuuuuy lento</li>
+</ul>
+<hr />
 <h1 id="federacion">FEDERACIÓN<a class="headerlink" href="#federacion" title="Permanent link"></a></h1>
-<p>No hace falta tener una cuenta en cada insncia para interactuar con usuarios radicados en otras. Si tus amis están en otra instancia de la fed podés poner <a class="magiclink magiclink-github magiclink-mention" href="https://github.com/su-user" title="GitHub User: su-user">@su-user</a><a class="magiclink magiclink-github magiclink-mention" href="https://github.com/su-instancia" title="GitHub User: su-instancia">@su-instancia</a> en el buscador, va a aparecer su cuenta en el listado y desde ahí podés empezar a seguirla.
-Va a lucir así
-https://[mi-instancia]/@[su-user]@[su-instancia]
-Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social (en este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle).</p>
-<p>Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servers que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo.</p>
+<p>No hace falta tener una cuenta en cada instancia para interactuar con usuarios radicados en otras. Si tus amis están en otra instancia de la fed podés poner <a class="magiclink magiclink-github magiclink-mention" href="https://github.com/su-user" title="GitHub User: su-user">@su-user</a><a class="magiclink magiclink-github magiclink-mention" href="https://github.com/su-instancia" title="GitHub User: su-instancia">@su-instancia</a> en el buscador, va a aparecer su cuenta en el listado y desde ahí podés empezar a seguirla.
+Va a lucir así</p>
+<blockquote>
+<p>https://[mi-instancia]/@[su-user]@[su-instancia]</p>
+<p>Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social. En este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle. <strong>Lo importante es que se puede sin usar puentes externos.</strong></p>
+</blockquote>
+<p>Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servers que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo. Si te da mucha curiosidad el tema acá podés leer sobre puenteo entre servidores: <a href="https://en.wikipedia.org/wiki/Network_bridge">https://en.wikipedia.org/wiki/Network_bridge</a>.</p>
 <h2 id="federacion-usando-fedbridgy">Federación usando FED.BRID.GY<a class="headerlink" href="#federacion-usando-fedbridgy" title="Permanent link"></a></h2>
 <p>Hice esta guía para quienes quieren federar entre BlueSky y Mastodon porque es mi caso. Eventualmente, si llega a surgir la necesidad lo haré para otras plataformas, pero creo que con esto es suficiente.</p>
 <p>Para que vean mis publicaciones de mi cuenta original (desde OTRA-APP) debo crear una cuenta puenteada a partir de mi cuenta original.</p>
@@ -1147,4 +1162,21 @@ En este perfil se verán todas las publicaciones realizadas en mi cuenta origina
 <h3 id="activardesactivar">Activar/Desactivar<a class="headerlink" href="#activardesactivar" title="Permanent link"></a></h3>
 <p>Desde  <a href="https://fed.brid.gy/settings">https://fed.brid.gy/settings</a> puedo cambiar el status mi cuenta ya puentada (activa/inactiva). Tarda ~5 minutos en realizarse los cambios. Después de cambiar el status debo esperar 5 minutos antes de volver a cambiarlo.</p>
 <p>Desde esa página se puede también cambiar el Bluesky handle en caso de que tengas un dominio propio (opcional) y activar/desactivar DM notifications from unbridged accounts. O sea, si quiero recibir o no mensajes privados notificándome de si alguna cuenta no puenteada (no vinculada con su BRIDGY local) interactuó con mi cuenta puenteada o alguna de sus publicaciones. Más detalles sobre cómo funciona todo esto acá <a href="https://fed.brid.gy/docs">https://fed.brid.gy/docs</a></p>
-<p>Si quiero desactivar por completo mi puenteo debo dejar de seguir y eliminar seguidor o bloquear seguidor a la cuenta local de BRIDGY. El puenteo de publicaciones funciona únicamente si BRIDGY local te sigue.</p></article></body></html>
+<p>Si quiero desactivar por completo mi puenteo debo dejar de seguir y eliminar seguidor o bloquear seguidor a la cuenta local de BRIDGY. El puenteo de publicaciones funciona únicamente si BRIDGY local te sigue.</p>
+<hr />
+<h1 id="extras">EXTRAS<a class="headerlink" href="#extras" title="Permanent link"></a></h1>
+<p><a href="https://indieweb.org/bridge_all_the_things">https://indieweb.org/bridge_all_the_things</a></p>
+<p>¿Cómo armar un form html para seguir a un usuario miembro del fediverso?
+<a href="https://indieweb.org/Bridgy_Fed#How_to_add_a_follow_form">https://indieweb.org/Bridgy_Fed#How_to_add_a_follow_form</a></p>
+<hr />
+<h1 id="yo">YO<a class="headerlink" href="#yo" title="Permanent link"></a></h1>
+<p>Armé este documento porque, a raíz de declaraciones políticas de la CEO de la plataforma, no quiero seguir en bsky. El tema es que en BSKY encontré una hermosa comunidad y no quiero renunciar a ella sólo porque sus posturas no sean tan firmes como las mías. Mi simpatía por el software libre, la federación y demás utopías tecnológicas siempre me atrajeron pero sus limitaciones económicas y prácticas me hicieron dejarlas de lado. Pasó muy poco desde la última vez que sentí la imperiosa necesidad de abandonar una plataforma donde había desarrollado fuertes vínculos y una identidad personal y laboral robusta por su cambio de dirección (cuando el nuevo dueño de equis hizo un gesto imperdonable). Mis espacios de comunidad online son muy importantes para mi y no quiero volver a tener que elegir. </p>
+<p>Tampoco me siento cómoda hoy con el server que elegí, aún siento que no soy dueña de <em>&ldquo;Mis cosas&rdquo;</em> ahí porque al minuto que tenga un conflicto con alguna de las autoridades voy a tener que irme. Aún no es un problema pero no tengo ganas de llegar a ese punto. En este momento no estoy en condiciones de crear mi propio server, como muches de uds me han sugerido. Es un trabajo enorme y no estoy del todo segura de que esa sea la mejor manera de lograr la sensación de autonomía y seguridad que necesito para estar tranquila.
+Eventualmente, cuando haya estabilizado todo este asunto y haya testeado cuán viable es federar entre mstd y bsky voy a dejar bsky por completo. Pero hoy no es el día.</p>
+<p>Si querés consultarme dudas que surgieron a raíz de este artículo, querés debatir puntos de vista (relevantes para el artículo) o creés que tenés algo copado para agregar podés contactarte conmigo. </p>
+<p>Por ahora me encontrás en </p>
+<ul>
+<li><a href="https://mastodon.uy/@Siboney">https://mastodon.uy/@Siboney</a></li>
+<li><a href="https://bsky.app/profile/candycandem.bsky.social">https://bsky.app/profile/candycandem.bsky.social</a></li>
+</ul>
+<p>Con cariño, <em>De-Lulu</em></p></article></body></html>
