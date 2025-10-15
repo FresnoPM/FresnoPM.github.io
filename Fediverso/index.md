@@ -202,10 +202,13 @@ ___
 
 # YO
 
-Armé este documento porque, a raíz de declaraciones políticas de la CEO de la plataforma, no quiero seguir en bsky. El tema es que en BSKY encontré una hermosa comunidad y no quiero renunciar a ella sólo porque sus posturas no sean tan firmes como las mías. Mi simpatía por el software libre, la federación y demás utopías tecnológicas siempre me atrajeron pero sus limitaciones económicas y prácticas me hicieron dejarlas de lado. Pasó muy poco desde la última vez que sentí la imperiosa necesidad de abandonar una plataforma donde había desarrollado fuertes vínculos y una identidad personal y laboral robusta por su cambio de dirección (cuando el nuevo dueño de equis hizo un gesto imperdonable). Mis espacios de comunidad online son muy importantes para mi y no quiero volver a tener que elegir.
+Armé este documento porque, a raíz de declaraciones políticas de la CEO de la plataforma, no quiero seguir en bsky. En enero de este año el dueño de la plataforma en donde yo había desarrollado fuertes vínculos y una identidad personal y laboral robusta por años hizo un gesto desvergonzado que me impidió seguir participando de ese ecosistema. Pocos meses después me veo en la misma situación. Mis espacios de comunidad online son muy importantes para mi y no quiero volver a tener que dejarlos atrás. Irme a un lugar nuevo es desalentador sabiendo que tiene fecha de caducidad: hasta que sus autoridades se manden una. No hacer nada no se siente bien.
 
-Tampoco me siento cómoda hoy con el servidor que elegí, aún siento que no soy dueña de _"Mis cosas"_ ahí porque al minuto que tenga un conflicto con alguna de las autoridades voy a tener que irme. Aún no es un problema pero no tengo ganas de llegar a ese punto. En este momento no estoy en condiciones de crear mi propio servidor, como muches de uds me han sugerido. Es un trabajo enorme y no estoy del todo segura de que esa sea la mejor manera de lograr la sensación de autonomía y seguridad que necesito para estar tranquila.
-Eventualmente, cuando haya estabilizado todo este asunto y haya testeado cuán viable es federar entre mstd y bsky voy a dejar bsky por completo. Pero hoy no es el día.
+El tema es que en BSKY encontré una hermosa comunidad y no quiero renunciar a ella sólo porque sus posturas no sean tan firmes como las mías. Quiero tener control sobre dónde están mis cosas, cómo se moderan las interacciones y simultáneamente seguir participando de la comunidad que me gusta y me sostiene.
+
+Bluesky como plataforma evita activamente la federación. Esto mantiene muy separados esos dos mundos. Por eso esta solución es un poco tosca quizás. Ojo: Es totalmente legal pero es medio como un hack. Entonces depende de que suficiente gente disponibilice su cuenta a la federación para que se vuelva fluido del todo. Es cuestión de alcanzar una masa crítica de interacciones... en fin... por ahora me alcanza con un puñado y vamos viendo.
+Ojalá les cope.
+
 
 ## Contacto
 
