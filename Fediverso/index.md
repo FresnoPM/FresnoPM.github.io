@@ -9,7 +9,7 @@ HOLA, MUNDO FED
 
 - Todas las redes sociales tienen la misma estructura, sólo que usualmente no tenés que elegir la instancia, si es tu 1ra vez en mastodon o el fediverso y tenés dudas de por dónde empezar, metete <a href="#tu primer cuenta">acá </a>.
 - Si ya tenés una cuenta y querés federarla con otras andá derecho a <a href="#federacion">FEDERACIÓN</a>. Ahí hay una pequeña introducción y las instrucciones para hacerlo con BRIDGY.
-- Si ya tenés claro cómo funciona todo y querés los 3 pasos simples andá a <a href="#tldr">TL;DR</a>
+- Si ya tenés claro cómo funciona todo y querés los 3 pasos simples andá a <a href="#tldr">TL;DR</a>.
 - Después hay cositas <a href="#extras">extra</a> y un epílogo donde cuento un poco de <a href="#yo">mi experiencia</a>.
 
 **EMPECEMOS!**
@@ -20,10 +20,10 @@ Sacar una cuenta en el fediverso es como pelar una naranja (podés tener todas l
 
 Elegir con cuidado porque no los podés cambiar:
 
-- **mi-user**: sería como tu nombre que te dio tu mamá, es el _handle_ o _arroba_.
-- **mi-instancia**: vendría a ser el apellido, esta es la cosa nueva que introduce el fediverso: podés elegir dónde radicar tu nueva cuenta. Hay algunas genéricas y otras específicas. Abajo vas a poder ver un listado de criterios que yo sugiero tener en cuenta y también un listado de directorios donde vas a poder encontrar. Puse una pequeña explicación sobre qué significa esto <a href="#instancias">acá</a>. 
+- **mi-user:** sería como tu nombre que te dio tu mamá, es el _handle_ o _arroba_.
+- **mi-instancia:** vendría a ser el apellido, esta es la cosa nueva que introduce el fediverso: podés elegir dónde radicar tu nueva cuenta. Hay algunas genéricas y otras específicas. Abajo vas a poder ver un listado de criterios que yo sugiero tener en cuenta y también un listado de directorios donde vas a poder encontrar. Puse una pequeña explicación sobre qué significa esto <a href="#instancias">acá</a>. 
 
-_Si por algún motivo **necesitás** generar una nueva cuenta sin perder lo que tenías en la anterior se puede, hasta cierto punto... pero es un bardo._
+_Si por algún motivo **necesitás** generar una nueva cuenta sin perder lo que tenías en la anterior se puede, hasta cierto punto... pero es un bardo.No nos metamos ahí plis._
 
 Esto es igual que en cualquier otra rrss. Podés cambiar tantas veces como quieras:
 
@@ -47,27 +47,26 @@ Una persona u organización contrata un servidor y dentro de ese servidor instal
 
 **REGISTRO**
 
-El tema es que vos no te sacás una cuenta en la app, te sacás la cuenta en una instancia de la app que corre en un servidor que alguien administra. Entonces tu cuenta está sujeta a las decisiones de esa persona u organización. La cosa copada del fediverso es que 
+El tema es que vos no te sacás una cuenta en la app, te sacás la cuenta en una instancia de la app que corre en un servidor que alguien administra. Entonces tu cuenta está sujeta a las decisiones de esa persona u organización. La cosa copada del fediverso es que podés:
 
-1)	Podés elegir el software que más se ajuste a tus necesidades.
+1)	elegir el software que más se ajuste a tus necesidades.
 
-2)	Podés elegir el servidor dónde está instalado ese software. Esto significa elegir 
+2)	elegir el servidor dónde está instalado ese software. Esto significa elegir 
 - tus admins (autoridades del servidor) 
 - reglas o términos y condiciones de uso
 - nombre de la instancia (para mi es importante, pero secundario)
 
-3)	Si quisieras podrías armar tu propio servidor.
+3)	armar tu propio servidor, si te dan muchas ganas.
 
-4) 	Si no te gusta cómo se maneja el asunto podés llevarte tus cosas a otro lado.
+4) 	llevarte tus cosas (creaciones como imágenes, textos, etc) a otro lado si no te gusta cómo se maneja el server en el que estás.
 
-5)	Podés federar con otros servidores que tengan mismo software u otro. Si tiene otro protocolo ya es más difícil y de eso se trata este artículo.
+5)	federar con otros servidores que tengan mismo software u otro mientras use el mismo protocolo. Si tiene otro protocolo ya es más difícil y de eso se trata este artículo.
 
-**En resumen:** podés elegir quién y cómo se toman las decisiones, tus cosas son tuyas, no de las autoridades del servidor. Esto no es posible en Meta, X, bsky, etc.
-
+**En resumen:** podés elegir quién y cómo se toman las decisiones, tus cosas son tuyas, no de las autoridades del servidor. Esto no es posible en Meta (FB, threads, IG), equis, bsky, etc.
 
 ## Criterios
 
-Es difícil manejar tanta info al principio pero vale la pena pensar en estas cuestiones al principio. La mayoría son obvias. Las que no, podés consultar con gente que ya haya pasado por la experiencia. Estos datos están publicados en la página instancia/about de cada servidor.
+Es difícil manejar tanta info pero vale la pena pensar en estas cuestiones al principio. La mayoría son obvias. Las que no, podés consultarlas con gente que ya haya pasado por la experiencia. Estos datos los encontrás publicados en la página instancia/about de cada servidor.
 
 - **Reglas del servidor:** algunas más estrictas que otras, es importante que estés de acuerdo porque si lo las seguís te van a echar
 - **Ubicación geográfica de los servidores:** esto influye en la eficiencia y el tiempo que toma publicar
@@ -79,7 +78,6 @@ Es difícil manejar tanta info al principio pero vale la pena pensar en estas cu
 - **Otras** ¿cuáles?
 
 ## Directorios de instancias
-
 
 Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#Contacto">a mí</a>) para que te guíe. 
 
@@ -97,7 +95,7 @@ Listas de servidores o instancias:
 - https://the-federation.info/
 
 Diferentes softwares que usan Activity pub:
-Mi recomendación: El más genérico en mi opinión es mastodon. No te compliques demasiado con esto, ya va a haber tiempo para ir afinando la puntería. VOFI.
+Mi recomendación: El más genérico que encuentres. En mi opinión ese es mastodon. No te compliques demasiado con esto, ya va a haber tiempo para ir afinando la puntería. VOFI.
 
 - https://en.wikipedia.org/wiki/Fediverse#Software
 
@@ -110,7 +108,7 @@ Mi recomendación: El más genérico en mi opinión es mastodon. No te complique
 
 Acá empieza la parte _divertida_.
 
-No hace falta tener una cuenta en cada instancia para interactuar con usuarios radicados en otras. Si tus amis están en otra instancia de la fed podés poner @su-user@su-instancia en el buscador, va a aparecer su cuenta en el listado y desde ahí podés empezar a seguirla.
+No hace falta tener una cuenta en cada instancia para interactuar con usuarios radicados en otras. Si tus amis están en otra instancia de la fed podés poner @[su-user]@[su-instancia] en el buscador. Va a aparecer su cuenta en el listado y desde ahí podés empezar a seguirla.
 Va a lucir así:
 
 > https://[mi-instancia]/@[su-user]@[su-instancia]
@@ -118,7 +116,7 @@ Va a lucir así:
 
 Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp o desde mastodon.social y seguir una cuenta radicada en mastodon.la desde pixelfed.social. Si te confunde esto, ni te preocupes, podés chusmear esto después. En este caso desde el universo pixel sólo se pueden visualizar contenido multimedia publicado desde otras cuentas, pero es un detalle. **Lo importante es que se puede sin usar puentes externos.**
 
-Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servidores que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar bridgy que me pareció el más completo. Si te da mucha curiosidad el tema acá podés leer sobre puenteo entre servidores y otras yerbas en  <a href="#extras">extras</a>
+Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servidores que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar BRIDGY que me pareció el más completo. Si te da mucha curiosidad el tema en la sección <a href="#extras">extras</a> podés leer sobre puenteo entre servidores y otras yerbas.
 
 ## Federación usando FED.BRID.GY 
 
@@ -126,22 +124,21 @@ Hice esta guía para quienes quieren federar entre BlueSky y Mastodon porque es 
 
 Para que vean mis publicaciones de mi cuenta original (desde OTRA-APP) debo crear una cuenta puenteada a partir de mi cuenta original.
 
-Para eso debo seguir al BRIDGY local desde mi cuenta. Esto hará que BRIDGY me empiece a seguir.
+Para eso debo seguir al BRIDGY local desde mi cuenta. 
 
 - Desde MSTD: https://mi-instancia-mstd/@bsky.brid.gy@bsky.brid.gy
 - Desde BSKY: https://bsky.app/profile/ap.brid.gy
 
 
-BRIDGY creará a partir de mi cuenta original una nueva cuenta puenteada que es:
+Esto hará que BRIDGY me empiece a seguir. BRIDGY creará a partir de mi cuenta original una nueva cuenta puenteada que tiene esta estructura:
 
-> @[mi-user-original].[mi-instancia-original]@[otra-app].brid.gy
+> @[mi-user-original].[mi-instancia-original]@[OTRA-APP].brid.gy
 
 Los usuarios de otras apps podrán visualizarla desde una url que es 
 
-> https://OTRA-APP/@[mi-user-original].[mi-instancia-original]@[otra-app].brid.gy
+> https://[OTRA-APP]/@[mi-user-original].[mi-instancia-original]@[OTRA-APP].brid.gy
 
-Esta cuenta puenteada será una copia de la original. Tendrá mismo avatar, mismo banner, misma bio con una línea extra agregada en la bio que hace fácil de reconocerla como puenteada.
-En este perfil se verán todas las publicaciones realizadas en mi cuenta original a partir del momento en que se empezó el vínculo con la cuenta de BRIDGY correspondiente.
+Esta cuenta puenteada será una copia de la original. Tendrá mismo avatar, mismo banner, misma bio con una línea extra agregada en la bio que hace fácil de reconocerla como puenteada. En este perfil se verán todas las publicaciones realizadas en mi cuenta original a partir del momento en que se empezó el vínculo con la cuenta de BRIDGY correspondiente.
 
 Todos los usuarios de la OTRA-APP podrán ver mi cuenta, interactuar con ella, ver las publicaciones e interactuar con ellas tanto como su OTRA-APP lo permita. 
 
@@ -178,16 +175,17 @@ Si quiero que un user de OTRA-APP se conecte con el fediverso y no lo hace por s
 
 1) le mando un mensaje privado a mi BRIDGY local 
 
-2) el mensaje debe decir sólamente @otro-usuario@su-instancia 
+2) el mensaje debe decir sólamente @[otro-usuario]@[su-instancia] 
 
 3) BRIDGY le enviará un mensaje a esa cuenta con la invitación e instrucciones para realizarlo. Más info acá: https://fed.brid.gy/docs#dm-request
 
 ## Clientes
 
-Después están los _clientes_ que son las apps que te instalás en el teléfono, en la compu o consultás desde el navegador. Por ejemplo la app de bsky es una sola, pero para mastodon hay bocha, yo uso "Tusky". Chusmeá lo que ofrezca tu play store o app store o lo que tengas.s
+Después están los _clientes_ que son las apps que te instalás en el teléfono, en la compu o consultás desde el navegador. Por ejemplo la app de bsky es una sola, pero para mastodon hay bocha, yo uso "Tusky". Chusmeá lo que ofrezca tu play store o app store o lo que tengas.
 
 ## Links piolas para gente techie
 
+- Fed.Brid.gy: https://fed.brid.gy/docs
 - Bridges: https://en.wikipedia.org/wiki/Network_bridge.
 - https://the-federation.info/protocol/4 <-- anda muuuuuuuuuy lento pero tira muuuucha data
 - https://indieweb.org/bridge_all_the_things
@@ -203,9 +201,6 @@ Armé este documento porque, a raíz de declaraciones políticas de la CEO de la
 Tampoco me siento cómoda hoy con el servidor que elegí, aún siento que no soy dueña de _"Mis cosas"_ ahí porque al minuto que tenga un conflicto con alguna de las autoridades voy a tener que irme. Aún no es un problema pero no tengo ganas de llegar a ese punto. En este momento no estoy en condiciones de crear mi propio servidor, como muches de uds me han sugerido. Es un trabajo enorme y no estoy del todo segura de que esa sea la mejor manera de lograr la sensación de autonomía y seguridad que necesito para estar tranquila.
 Eventualmente, cuando haya estabilizado todo este asunto y haya testeado cuán viable es federar entre mstd y bsky voy a dejar bsky por completo. Pero hoy no es el día.
 
-
-
-
 ## Contacto
 
 Si querés consultarme dudas que surgieron a raíz de este artículo, querés debatir puntos de vista (relevantes para el artículo) o creés que tenés algo copado para agregar podés contactarte conmigo. También acepto identificaciones de errores, fotos de michis, transferencias bancarias y barritas de mantecol.
@@ -217,6 +212,6 @@ Por ahora me encontrás en
 - https://mastodon.uy/@Siboney
 - https://bsky.app/profile/candycandem.bsky.social
 
-después vemos.
+	...después vemos.
 
 Con cariño, _De-Lulu_
