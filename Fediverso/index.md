@@ -42,6 +42,7 @@ Mastodon, pixelfed, bluesky, wordpress, etc son apps, software, proyectos o como
 Mis apps elegidas son Mastodon y Bluesky y en este artículo me concentro en estas 2. Hay muuuuuuchas más.
 
 Diferentes softwares que usan Activity pub:
+
 - https://en.wikipedia.org/wiki/Fediverse#Software
 - https://fedidb.com/software
 - https://the-federation.info/#projects
