@@ -79,7 +79,7 @@ Es difícil manejar tanta info pero vale la pena pensar en estas cuestiones al p
 
 ## Directorios de instancias
 
-Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#Contacto">a mí</a>) para que te guíe.
+Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#contacto">a mí</a>) para que te guíe.
 
 Listas de servidores o instancias:
 
