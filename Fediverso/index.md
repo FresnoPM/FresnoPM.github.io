@@ -1,5 +1,5 @@
 Title:	Hola, mundo Fed - Un artículo hecho por De-Lulu
-Author: Lucia Fresno  
+Author: Lucia Fresno
 Web: http://fresno.pm/
 
 HOLA, MUNDO FED
@@ -21,7 +21,7 @@ Sacar una cuenta en el fediverso es como pelar una naranja (podés tener todas l
 Elegir con cuidado porque no los podés cambiar:
 
 - **mi-user:** sería como tu nombre que te dio tu mamá, es el _handle_ o _arroba_.
-- **mi-instancia:** vendría a ser el apellido, esta es la cosa nueva que introduce el fediverso: podés elegir dónde radicar tu nueva cuenta. Hay algunas genéricas y otras específicas. Abajo vas a poder ver un listado de criterios que yo sugiero tener en cuenta y también un listado de directorios donde vas a poder encontrar. Puse una pequeña explicación sobre qué significa esto <a href="#instancias">acá</a>. 
+- **mi-instancia:** vendría a ser el apellido, esta es la cosa nueva que introduce el fediverso: podés elegir dónde radicar tu nueva cuenta. Hay algunas genéricas y otras específicas. Abajo vas a poder ver un listado de criterios que yo sugiero tener en cuenta y también un listado de directorios donde vas a poder encontrar. Puse una pequeña explicación sobre qué significa esto <a href="#instancias">acá</a>.
 
 _Si por algún motivo **necesitás** generar una nueva cuenta sin perder lo que tenías en la anterior se puede, hasta cierto punto... pero es un bardo.No nos metamos ahí plis._
 
@@ -34,11 +34,11 @@ Esto es igual que en cualquier otra rrss. Podés cambiar tantas veces como quier
 
 ## Instancias
 
-¿Qué es una instancia? 
+¿Qué es una instancia?
 
 **SOFTWARE**
 
-Mastodon, pixelfed, bluesky, wordpress, etc son apps, software o como lo quieras llamar. Estos softwares tienen características varias. Las que más me importan a mi son las features y el prtocolo porque son las características que más influyen en la compatibilidad de federación. 
+Mastodon, pixelfed, bluesky, wordpress, etc son apps, software o como lo quieras llamar. Estos softwares tienen características varias. Las que más me importan a mi son las features y el prtocolo porque son las características que más influyen en la compatibilidad de federación.
 Mis apps elegidas son Mastodon y Bluesky y en este artículo me concentro en estas 2. Hay muuuuuuchas más.
 
 **SERVIDOR**
@@ -51,8 +51,8 @@ El tema es que vos no te sacás una cuenta en la app, te sacás la cuenta en una
 
 1)	elegir el software que más se ajuste a tus necesidades.
 
-2)	elegir el servidor dónde está instalado ese software. Esto significa elegir 
-- tus admins (autoridades del servidor) 
+2)	elegir el servidor dónde está instalado ese software. Esto significa elegir
+- tus admins (autoridades del servidor)
 - reglas o términos y condiciones de uso
 - nombre de la instancia (para mi es importante, pero secundario)
 
@@ -79,13 +79,13 @@ Es difícil manejar tanta info pero vale la pena pensar en estas cuestiones al p
 
 ## Directorios de instancias
 
-Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#Contacto">a mí</a>) para que te guíe. 
+Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#Contacto">a mí</a>) para que te guíe.
 
 Listas de servidores o instancias:
 
 - https://joinmastodon.org/servidores
 - https://instances.social
-- https://pixelfed.org/servidores
+- https://pixelfed.org/servers
 - https://gram.social/web/directory
 - https://pleroma.social/#featured-instances
 - https://fedidb.com/
@@ -100,7 +100,7 @@ Mi recomendación: El más genérico que encuentres. En mi opinión ese es masto
 - https://en.wikipedia.org/wiki/Fediverse#Software
 
 
- 
+
  ___
 
 
@@ -118,13 +118,13 @@ Por ejemplo puedo seguir a una cuenta radicada en pixelfed.social desde gram.jp 
 
 Si quiero vincularme con cuentas que están fuera de la FED (sus instancias corren en servidores que no tienen protocolo ActivityPub) puedo usar puentes. Los puentes son una cosa de locos, hay muchos, acá te cuento cómo usar BRIDGY que me pareció el más completo. Si te da mucha curiosidad el tema en la sección <a href="#extras">extras</a> podés leer sobre puenteo entre servidores y otras yerbas.
 
-## Federación usando FED.BRID.GY 
+## Federación usando FED.BRID.GY
 
 Hice esta guía para quienes quieren federar entre BlueSky y Mastodon porque es mi caso. Eventualmente, si llega a surgir la necesidad lo haré para otras plataformas, pero creo que con esto es suficiente.
 
 Para que vean mis publicaciones de mi cuenta original (desde OTRA-APP) debo crear una cuenta puenteada a partir de mi cuenta original.
 
-Para eso debo seguir al BRIDGY local desde mi cuenta. 
+Para eso debo seguir al BRIDGY local desde mi cuenta.
 
 - Desde MSTD: https://mi-instancia-mstd/@bsky.brid.gy@bsky.brid.gy
 - Desde BSKY: https://bsky.app/profile/ap.brid.gy
@@ -134,13 +134,13 @@ Esto hará que BRIDGY me empiece a seguir. BRIDGY creará a partir de mi cuenta 
 
 > @[mi-user-original].[mi-instancia-original]@[OTRA-APP].brid.gy
 
-Los usuarios de otras apps podrán visualizarla desde una url que es 
+Los usuarios de otras apps podrán visualizarla desde una url que es
 
 > https://[OTRA-APP]/@[mi-user-original].[mi-instancia-original]@[OTRA-APP].brid.gy
 
 Esta cuenta puenteada será una copia de la original. Tendrá mismo avatar, mismo banner, misma bio con una línea extra agregada en la bio que hace fácil de reconocerla como puenteada. En este perfil se verán todas las publicaciones realizadas en mi cuenta original a partir del momento en que se empezó el vínculo con la cuenta de BRIDGY correspondiente.
 
-Todos los usuarios de la OTRA-APP podrán ver mi cuenta, interactuar con ella, ver las publicaciones e interactuar con ellas tanto como su OTRA-APP lo permita. 
+Todos los usuarios de la OTRA-APP podrán ver mi cuenta, interactuar con ella, ver las publicaciones e interactuar con ellas tanto como su OTRA-APP lo permita.
 
 Desde mi cuenta original sólo podré ver (e interactuar con) cuentas de OTRA-APP y sus publicaciones si éstas están, a su vez, vinculadas con la cuenta de BRIDGY correspondiente a su app. Tampoco voy a poder ver las interacciones de users de OTRA-APP en los posts de mi cuenta puenteada ni recibir notificaciones a menos que estén vinculados con BRIDGY para permitir que yo los vea desde mi cuenta original.
 
@@ -159,7 +159,7 @@ Pasos:
 ___
 
 
-# EXTRAS 
+# EXTRAS
 
 ## Activar/Desactivar
 
@@ -171,11 +171,11 @@ Si quiero desactivar por completo mi puenteo debo dejar de seguir y eliminar seg
 
 ## Invitar a otra gente que no sabe cómo hacer
 
-Si quiero que un user de OTRA-APP se conecte con el fediverso y no lo hace por su cuenta puedo invitarle así: 
+Si quiero que un user de OTRA-APP se conecte con el fediverso y no lo hace por su cuenta puedo invitarle así:
 
-1) le mando un mensaje privado a mi BRIDGY local 
+1) le mando un mensaje privado a mi BRIDGY local
 
-2) el mensaje debe decir sólamente @[otro-usuario]@[su-instancia] 
+2) el mensaje debe decir sólamente @[otro-usuario]@[su-instancia]
 
 3) BRIDGY le enviará un mensaje a esa cuenta con la invitación e instrucciones para realizarlo. Más info acá: https://fed.brid.gy/docs#dm-request
 
@@ -196,7 +196,7 @@ ___
 
 # YO
 
-Armé este documento porque, a raíz de declaraciones políticas de la CEO de la plataforma, no quiero seguir en bsky. El tema es que en BSKY encontré una hermosa comunidad y no quiero renunciar a ella sólo porque sus posturas no sean tan firmes como las mías. Mi simpatía por el software libre, la federación y demás utopías tecnológicas siempre me atrajeron pero sus limitaciones económicas y prácticas me hicieron dejarlas de lado. Pasó muy poco desde la última vez que sentí la imperiosa necesidad de abandonar una plataforma donde había desarrollado fuertes vínculos y una identidad personal y laboral robusta por su cambio de dirección (cuando el nuevo dueño de equis hizo un gesto imperdonable). Mis espacios de comunidad online son muy importantes para mi y no quiero volver a tener que elegir. 
+Armé este documento porque, a raíz de declaraciones políticas de la CEO de la plataforma, no quiero seguir en bsky. El tema es que en BSKY encontré una hermosa comunidad y no quiero renunciar a ella sólo porque sus posturas no sean tan firmes como las mías. Mi simpatía por el software libre, la federación y demás utopías tecnológicas siempre me atrajeron pero sus limitaciones económicas y prácticas me hicieron dejarlas de lado. Pasó muy poco desde la última vez que sentí la imperiosa necesidad de abandonar una plataforma donde había desarrollado fuertes vínculos y una identidad personal y laboral robusta por su cambio de dirección (cuando el nuevo dueño de equis hizo un gesto imperdonable). Mis espacios de comunidad online son muy importantes para mi y no quiero volver a tener que elegir.
 
 Tampoco me siento cómoda hoy con el servidor que elegí, aún siento que no soy dueña de _"Mis cosas"_ ahí porque al minuto que tenga un conflicto con alguna de las autoridades voy a tener que irme. Aún no es un problema pero no tengo ganas de llegar a ese punto. En este momento no estoy en condiciones de crear mi propio servidor, como muches de uds me han sugerido. Es un trabajo enorme y no estoy del todo segura de que esa sea la mejor manera de lograr la sensación de autonomía y seguridad que necesito para estar tranquila.
 Eventualmente, cuando haya estabilizado todo este asunto y haya testeado cuán viable es federar entre mstd y bsky voy a dejar bsky por completo. Pero hoy no es el día.
@@ -207,7 +207,7 @@ Si querés consultarme dudas que surgieron a raíz de este artículo, querés de
 
 Esto está hecho en markdown porque no tenía ganas de ponerme a sobreingenierizar el asunto y aparte me gusta esta onda minimalista. Si creés que puede mejorar con css, te invito a que escribas tus sugerencias y las subas a tu propia web que seguro está re buena. :)
 
-Por ahora me encontrás en 
+Por ahora me encontrás en
 
 - https://mastodon.uy/@Siboney
 - https://bsky.app/profile/candycandem.bsky.social
