@@ -38,12 +38,21 @@ Esto es igual que en cualquier otra rrss. Podés cambiar tantas veces como quier
 
 **SOFTWARE**
 
-Mastodon, pixelfed, bluesky, wordpress, etc son apps, software o como lo quieras llamar. Estos softwares tienen características varias. Las que más me importan a mi son las features y el prtocolo porque son las características que más influyen en la compatibilidad de federación.
+Mastodon, pixelfed, bluesky, wordpress, etc son apps, software, proyectos o como lo quieras llamar. Estos softwares tienen características varias. Las que más me importan a mi son las features y el prtocolo porque son las características que más influyen en la compatibilidad de federación.
 Mis apps elegidas son Mastodon y Bluesky y en este artículo me concentro en estas 2. Hay muuuuuuchas más.
+
+Diferentes softwares que usan Activity pub:
+- https://en.wikipedia.org/wiki/Fediverse#Software
+- https://fedidb.com/software
+- https://the-federation.info/#projects
+
+
+Ante la duda, elegí el más genérico que encuentres. En mi opinión ese es mastodon. No te compliques demasiado con esto, ya va a haber tiempo para ir afinando la puntería.
+
 
 **SERVIDOR**
 
-Una persona u organización contrata un servidor y dentro de ese servidor instala una instancia de ese software. Después compra un dominio (el nombre de la instancia) y lo disponibiliza para que la gente se registre ahí. Muchas veces llamamos _servidor_ a la _instancia_. Son cosas diferentes pero están vinculadas, así que podemos usar esos dos términos como sinónimos para fines prácticos.
+Una persona u organización contrata un servidor y dentro de ese servidor instala una instancia de ese software. Después compra un dominio (el nombre de la instancia) y lo disponibiliza para que la gente se registre ahí. Muchas veces llamamos _servidor_ a la _instancia_ y viceversa. Son cosas diferentes pero están vinculadas, así que podemos usar esos dos términos como sinónimos para fines prácticos. Alguna gente los llama _nodos_ de la federación. Qué sé yo? No estoy para ponerme filosófica ahora.
 
 **REGISTRO**
 
@@ -58,13 +67,13 @@ El tema es que vos no te sacás una cuenta en la app, te sacás la cuenta en una
 
 3)	armar tu propio servidor, si te dan muchas ganas.
 
-4) 	llevarte tus cosas (creaciones como imágenes, textos, etc) a otro lado si no te gusta cómo se maneja el server en el que estás.
+4) 	llevarte tus cosas (creaciones como imágenes, textos, etc) a otro lado si no te gusta cómo se maneja el server en el que estás. No cedés derechos de autor ni estás obligade a dejarlos atrás al irte.
 
 5)	federar con otros servidores que tengan mismo software u otro mientras use el mismo protocolo. Si tiene otro protocolo ya es más difícil y de eso se trata este artículo.
 
 **En resumen:** podés elegir quién y cómo se toman las decisiones, tus cosas son tuyas, no de las autoridades del servidor. Esto no es posible en Meta (FB, threads, IG), equis, bsky, etc.
 
-## Criterios
+## Criterios para elegir un servidor
 
 Es difícil manejar tanta info pero vale la pena pensar en estas cuestiones al principio. La mayoría son obvias. Las que no, podés consultarlas con gente que ya haya pasado por la experiencia. Estos datos los encontrás publicados en la página instancia/about de cada servidor.
 
@@ -81,25 +90,22 @@ Es difícil manejar tanta info pero vale la pena pensar en estas cuestiones al p
 
 Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#contacto">a mí</a>) para que te guíe.
 
-Listas de servidores o instancias:
+Listas de servidores:
+
+- https://fedidb.com/servers
+
+Con instancias de mastodon (como tuiter):
 
 - https://joinmastodon.org/servidores
 - https://instances.social
+- https://mastodon.help/instances/en
+- https://fedi.directory/
+
+
+Con instancias de pixelfed (como insta):
+
 - https://pixelfed.org/servers
 - https://gram.social/web/directory
-- https://pleroma.social/#featured-instances
-- https://fedidb.com/
-- https://fedidb.org
-- https://fedi.directory/
-- https://mastodon.help/instances/en
-- https://the-federation.info/
-
-Diferentes softwares que usan Activity pub:
-Mi recomendación: El más genérico que encuentres. En mi opinión ese es mastodon. No te compliques demasiado con esto, ya va a haber tiempo para ir afinando la puntería. VOFI.
-
-- https://en.wikipedia.org/wiki/Fediverse#Software
-
-
 
  ___
 
