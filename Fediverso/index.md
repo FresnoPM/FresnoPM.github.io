@@ -14,7 +14,7 @@ HOLA, MUNDO FED
 
 **EMPECEMOS!**
 
-## Tu primer cuenta
+# Tu primer cuenta
 
 Sacar una cuenta en el fediverso es como pelar una naranja (podés tener todas las que quieras).
 
@@ -23,7 +23,7 @@ Elegir con cuidado porque no los podés cambiar:
 - **mi-user:** sería como tu nombre que te dio tu mamá, es el _handle_ o _arroba_.
 - **mi-instancia:** vendría a ser el apellido, esta es la cosa nueva que introduce el fediverso: podés elegir dónde radicar tu nueva cuenta. Hay algunas genéricas y otras específicas. Abajo vas a poder ver un listado de criterios que yo sugiero tener en cuenta y también un listado de directorios donde vas a poder encontrar. Puse una pequeña explicación sobre qué significa esto <a href="#instancias">acá</a>.
 
-_Si por algún motivo **necesitás** generar una nueva cuenta sin perder lo que tenías en la anterior se puede, hasta cierto punto... pero es un bardo.No nos metamos ahí plis._
+_Si por algún motivo **necesitás** irte de un servidor sin perder lo que tenías en la cuenta, para irte a otro servidor: se puede, hasta cierto punto... pero es un bardo.No nos metamos ahí plis._
 
 Esto es igual que en cualquier otra rrss. Podés cambiar tantas veces como quieras:
 
@@ -38,7 +38,7 @@ Esto es igual que en cualquier otra rrss. Podés cambiar tantas veces como quier
 
 **SOFTWARE**
 
-Mastodon, pixelfed, bluesky, wordpress, etc son apps, software, proyectos o como lo quieras llamar. Estos softwares tienen características varias. Las que más me importan a mi son las features y el prtocolo porque son las características que más influyen en la compatibilidad de federación.
+Mastodon, pixelfed, bluesky, wordpress, etc son apps, software, proyectos, plataformas o como lo quieras llamar. Estos softwares tienen características varias. Las que más me importan a mi son las features y el prtocolo porque son las características que más influyen en la compatibilidad de federación.
 Mis apps elegidas son Mastodon y Bluesky y en este artículo me concentro en estas 2. Hay muuuuuuchas más.
 
 Diferentes softwares que usan Activity pub:
@@ -55,8 +55,6 @@ Ante la duda, elegí el más genérico que encuentres. En mi opinión ese es mas
 
 Una persona u organización contrata un servidor y dentro de ese servidor instala una instancia de ese software. Después compra un dominio (el nombre de la instancia) y lo disponibiliza para que la gente se registre ahí. Muchas veces llamamos _servidor_ a la _instancia_ y viceversa. Son cosas diferentes pero están vinculadas, así que podemos usar esos dos términos como sinónimos para fines prácticos. Alguna gente los llama _nodos_ de la federación. Qué sé yo? No estoy para ponerme filosófica ahora.
 
-**REGISTRO**
-
 El tema es que vos no te sacás una cuenta en la app, te sacás la cuenta en una instancia de la app que corre en un servidor que alguien administra. Entonces tu cuenta está sujeta a las decisiones de esa persona u organización. La cosa copada del fediverso es que podés:
 
 1)	elegir el software que más se ajuste a tus necesidades.
@@ -64,11 +62,11 @@ El tema es que vos no te sacás una cuenta en la app, te sacás la cuenta en una
 2)	elegir el servidor dónde está instalado ese software. Esto significa elegir
 - tus admins (autoridades del servidor)
 - reglas o términos y condiciones de uso
-- nombre de la instancia (para mi es importante, pero secundario)
+- nombre de la instancia (para mi es importante)
 
 3)	armar tu propio servidor, si te dan muchas ganas.
 
-4) 	llevarte tus cosas (creaciones como imágenes, textos, etc) a otro lado si no te gusta cómo se maneja el server en el que estás. No cedés derechos de autor ni estás obligade a dejarlos atrás al irte.
+4) 	llevarte tus cosas (creaciones como imágenes, textos, etc) a otro lado si no te gusta cómo se maneja el server en el que estás. No cedés derechos de autor ni estás obligade a dejarlos atrás al irte (como sí para por ejemplo con fb).
 
 5)	federar con otros servidores que tengan mismo software u otro mientras use el mismo protocolo. Si tiene otro protocolo ya es más difícil y de eso se trata este artículo.
 
@@ -87,7 +85,7 @@ Es difícil manejar tanta info pero vale la pena pensar en estas cuestiones al p
 - **Dónde estén tus amiwis**: podés seguir cuentas de cualquier servidor e interactuar con ellas, pero si la gente que te interesa está en el mismo servidor que vos es más sencillo ver sus publicaciones en el inicio.
 - **Otras** ¿cuáles?
 
-## Directorios de instancias
+## Directorios de servidores
 
 Existen varias, y muchas instancias existentes no están listadas pero acá hay suficientes para chusmear. Si te da fiaca podés preguntarle a alguien de confianza (por ejemplo <a href="#contacto">a mí</a>) para que te guíe.
 
